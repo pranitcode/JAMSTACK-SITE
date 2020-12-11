@@ -19,4 +19,4 @@ const listRepos = async username => {
     content.innerHTML = `<ul>${markup}</ul>`;
 };
 
-listRepos('ssonawane511');
+listRepos('pranitcode');
